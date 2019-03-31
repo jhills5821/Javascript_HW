@@ -49,4 +49,3 @@ filter.on("click", function() {
    console.log(filteredData);
     
 });
-
